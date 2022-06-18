@@ -1,0 +1,16 @@
+{
+  "name": "app-consola-de-administracion-tareas",
+  "version": "1.0.0",
+  "description": "Esta aplicación es una interactiva con la consola para poder crear tareas pendientes y completarlas, guarda las tareas en un json, no en una bd, permite completar y ver tareas, junto con otras tareas, un crud de tareas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Escobar Joel",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4",
+    "uuid": "^8.3.2"
+  }
+}
