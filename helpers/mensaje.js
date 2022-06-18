@@ -1,5 +1,10 @@
 const colors = require("colors");
 
+//Esto es una prueba de lo que sería la app, sin usar inquirer u otros paquetes
+//Seria demasiado quilombo hacer una app de consola así de compleja
+//cuando ya hay paquetes que nos ayudan a crear estás de manera mucho más sencilla
+//es una prueba para que te hagas idea de lo complejo que puede ser hacer una app así
+//en resumen, no inventes la rueda otra vez
 const mostrarMenu = () => {
   return new Promise((resolve) => {
     console.clear();
