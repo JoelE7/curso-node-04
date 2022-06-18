@@ -1,7 +1,8 @@
 #Notas
 
 En esta app existen 6 acciones(sin contar la de salir)
-`
+
+```
 1 . Crear tarea
 2 . Listar tareas
 3 . Listar tareas completadas
@@ -9,7 +10,7 @@ En esta app existen 6 acciones(sin contar la de salir)
 5 . Completar tarea(s)
 6 . Borrar tarea
 0 . Salir
-`
+```
 
 #
 Donde cada acción funciona debidamente como lo dice su descripción
