@@ -17,6 +17,6 @@ Donde cada acción funciona debidamente como lo dice su descripción
 # 
 Las tareas no se guardan en una bd, sino en un json en el path de ./database/data.json
 #
-Se usaron los paquetes, colors, inquirer,uuid,fs Recorda instalar los modulos ingreando
+Se usaron los paquetes, colors, inquirer,uuid,fs Recorda instalar los modulos ingresando
 
 `npm install`
